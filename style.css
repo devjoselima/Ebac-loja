@@ -147,7 +147,7 @@ footer{
 
 @media screen and (min-width: 641px) and (max-width: 1023px){
     .container{
-        max-width: 90%;
+        max-width: 85%;
     }
 
     .container-loja{
